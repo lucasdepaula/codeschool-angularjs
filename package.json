@@ -1,0 +1,24 @@
+{
+  "name": "codeschool-angularjs",
+  "version": "1.0.0",
+  "description": "codeschool projects",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.6.7",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdepaula/codeschool-angularjs.git"
+  },
+  "author": "Lucas de Paula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasdepaula/codeschool-angularjs/issues"
+  },
+  "homepage": "https://github.com/lucasdepaula/codeschool-angularjs#readme"
+}
